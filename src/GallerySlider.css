@@ -1,0 +1,8 @@
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+  color: white; 
+}
+
+:root {
+    --swiper-theme-color: rgb(103, 200, 252);
+  }
